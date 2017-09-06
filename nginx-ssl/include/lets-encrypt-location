@@ -1,0 +1,4 @@
+location /.well-known/acme-challenge {
+    root /etc/letsencrypt/webrootauth;
+    default_type "text/plain";
+}

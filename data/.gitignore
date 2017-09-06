@@ -1,0 +1,10 @@
+certs/
+
+gogs/gogs/data/
+gogs/gogs/log/
+gogs/ssh/
+gogs/git/
+
+letsencrypt/
+
+mysql/
